@@ -1,0 +1,34 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtuelle Umgebung
+.venv/
+
+# Umgebungsvariablen
+#.env
+
+# VS Code Einstellungen
+.vscode/
+
+# Logfiles & temporäres Zeug
+*.log
+*.tmp
+*.swp
+
+# macOS & Windows Systemdateien
+.DS_Store
+Thumbs.db
+
+# Cache & pip
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Jupyter / IPython
+.ipynb_checkpoints/

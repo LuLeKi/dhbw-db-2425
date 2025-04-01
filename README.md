@@ -28,7 +28,9 @@ This project is a **Database Management Web Application** for MySQL and MongoDB.
 2. Set and activate a virtual environment:
    ```sh
    python -m venv .venv
-   source .venv/bin/activate  # On Windows 
+   .venv\Scripts\activate  # cmd
+    .\.venv\Scripts\Activate.ps1 #powershell
+
 
 3. **Install dependencies:**  
    ```bash
